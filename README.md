@@ -27,7 +27,16 @@ During a series of interviews and meetings with staff, we have gathered the foll
     - ask for a loan
     - return a book
 
-- To do al loan...
+- To do al loan both teachers and students have to go to the library, take the book and ask for a loan. The librarian will use the app to assign the loan of the book to the user. The number of books that a user can have will depend if he is a teacher or a student.
+
+- The teachers can use deposit loans, this means that the teacher will have the book until somebody requests it (teacher or student).
+
+- The users can reserve books with the app:
+    - 
+    - 
+- The default state for a user is active...
+
+- From the fine...
 ---
 
 ### Multimodule java project managed with maven 
